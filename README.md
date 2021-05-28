@@ -17,7 +17,7 @@ NumericalMathematics is a simple application, it
 ## Authors:
 Created by 
 - Rania Hamada Hassan Mostafa [Github](https://github.com/rania-hhm)
-- Dalia Hamada Hassan Mostafa [Github]()
+- Dalia Hamada Hassan Mostafa [Github](https://github.com/dalia61)
 - Reem Abdullah
 - Mahmoud Abd El Razek
 - Wael Gameel
